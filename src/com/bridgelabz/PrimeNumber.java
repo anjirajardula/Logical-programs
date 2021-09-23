@@ -2,6 +2,12 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
+/**
+ * @author : anji raj
+ * @version :16.0
+ * @since : 23/09/2021
+ */
+
 public class PrimeNumber {
     /*
      *Ask User To Enter a Number
