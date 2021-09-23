@@ -13,10 +13,10 @@ import java.util.Scanner;
  */
 
 public class PerfectNumber {
-    /**
-     * Ask user To Enter a Number
-     * And Check It Is a Perfect Number Or Not
-     */
+
+    // Ask user To Enter a Number
+    // And Check It Is a Perfect Number Or Not
+
     public static void main(String[] args) {
         {
             int num, sum = 0;
