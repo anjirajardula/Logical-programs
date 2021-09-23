@@ -9,13 +9,13 @@ import java.util.Scanner;
  *
  * @author anjiraj
  * @version 16.0
- * @since 16/08/2021
+ * @since 23/09/2021
  */
 
 public class Fibonaciseries {
-    /**
-     * Ask User To Enter Number To Print Fibonacci Series
-     */
+
+     //Ask User To Enter Number To Print Fibonacci Series
+
     public static void main(String[] args) {
         int num1 = 0, num2 = 1, fibonacci, i, num3;
         System.out.println("Welcome to the fibonacci series program");
