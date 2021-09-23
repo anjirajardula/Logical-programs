@@ -2,11 +2,17 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
+/**
+ * @author : Anjiraj
+ * @version : 16.0
+ * @since : 23/09/2021
+ */
+
 public class ReverseNumber {
-    /*
-     * Ask User To Enter a Number
-     * And Write Condition To Print Reverse Number
-     */
+
+    //Ask User To Enter a Number
+    //And Write Condition To Print Reverse Number
+
     public static void main(String[] args) {
         int num, reminder, reverse = 0;
         //Welcome message added
